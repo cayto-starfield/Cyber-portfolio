@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 9
-title: Incident Handlers Journal
+title: Cross Browser Defect Logging
 img: handlersjournal.png
 alt: image-alt
 
