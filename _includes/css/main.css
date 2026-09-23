@@ -7,7 +7,7 @@
   background-color: #000000 !important;
   background-size: 6016px 4016px !important;
   background-position: center center !important;
-  /*background-attachment: fixed !important;*/
+  background-attachment: fixed !important;
 }
 body {
     overflow-x: hidden;
