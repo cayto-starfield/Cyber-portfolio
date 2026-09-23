@@ -7,7 +7,7 @@ alt: image-alt
 
 project-url: https://sites.google.com/view/caytonova/see-portfolio/xbrower-defect-triaging?authuser=0
 
-description: A comprehensive QA audit focused on identifying, triaging, and documenting cross-browser functional defects, UI regressions, and architectural JavaScript incompatibilities across legacy and modern web environments. This project involved deep-dive root cause analysis of console exceptions to guide developers in refactoring non-compliant code.
+description: A sample of my work. This was a comprehensive QA audit focused on identifying, triaging, and documenting cross-browser functional defects, UI regressions, and architectural JavaScript incompatibilities across legacy and modern web environments. This project involved deep-dive root cause analysis of console exceptions to guide developers in refactoring non-compliant code.
 ---
 
 <h3>1. Cross-Browser Functional Defects (Firefox)</h3>
