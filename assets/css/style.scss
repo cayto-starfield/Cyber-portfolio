@@ -1,1 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
 
+body {
+  background-image: url('../../pexels-krisof-1252869.jpg');
+  background-repeat: repeat;
+  background-color: #000000; /* Fallback color */
+}
