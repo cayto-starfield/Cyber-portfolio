@@ -24,11 +24,7 @@ contact: static
 disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 386641 #FD6E8A
-  secondary-dark: 6a994e #A2122F
+theme: jekyll-theme-cayman
 
 # Footer settings
 footer:
@@ -67,3 +63,4 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+      
