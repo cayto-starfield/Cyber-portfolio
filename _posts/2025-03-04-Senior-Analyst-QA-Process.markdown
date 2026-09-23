@@ -7,7 +7,7 @@ alt: image-alt
 
 project-url: https://sites.google.com/view/caytonova/see-portfolio/senior-analyst-qa-sop?authuser=0
 
-description: A formal Standard Operating Procedure (SOP) establishing a collaborative integration testing framework between QA and Development teams. This project standardized the Agile testing lifecycle, streamlining sprint-level test planning, test data review, knowledge sharing, and the documentation of automated versus manual test coverage.
+description: A sample of my work. This was a formal Standard Operating Procedure (SOP) establishing a collaborative integration testing framework between QA and Development teams. This project standardized the Agile testing lifecycle, streamlining sprint-level test planning, test data review, knowledge sharing, and the documentation of automated versus manual test coverage.
 ---
 
 <h3>Team QA Process SOP</h3>
