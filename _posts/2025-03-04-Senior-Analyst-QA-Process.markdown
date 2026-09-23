@@ -1,15 +1,13 @@
 ---
 layout: default
 modal-id: 7
-title: Senior Analyst QA ProceSs
+title: Agile QA Process & SOP Standardization
 img: handlersjournal.png
 alt: image-alt
 
-# Add the link to your journal below
 project-url: https://sites.google.com/view/caytonova/see-portfolio/senior-analyst-qa-sop?authuser=0
 
-# Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+description: A formal Standard Operating Procedure (SOP) establishing a collaborative integration testing framework between QA and Development teams. This project standardized the Agile testing lifecycle, streamlining sprint-level test planning, test data review, knowledge sharing, and the documentation of automated versus manual test coverage.
 ---
 
 <h3>Team QA Process SOP</h3>
