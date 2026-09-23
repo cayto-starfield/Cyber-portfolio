@@ -1,4 +1,16 @@
+---
+layout: default
+modal-id: 5
+title: Incident Handlers Journal
+img: handlersjournal.png
+alt: image-alt
 
+# Add the link to your journal below
+project-url:
+
+# Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
+description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+---
 
 <h3>Team QA Process SOP</h3>
 <p><em>This step-by-step process outlines the key activities and responsibilities involved in the Team QA Process. It ensures a structured approach to quality assurance and integration testing within the development team.</em></p>
