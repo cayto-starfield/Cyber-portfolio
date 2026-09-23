@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 title: UI & Accessibility Test Plan
-img: handlersjournal.png
+img: linux.png
 alt: image-alt
 
 # Add the link to your journal below
