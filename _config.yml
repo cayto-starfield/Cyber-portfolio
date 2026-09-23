@@ -1,12 +1,13 @@
 # Site settings
 title: Cayto Nova
 email: caytonova@gmail.com
-url: https://cayto-starfield.github.io/Cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
 meta_author: Cayto Nova
-
+theme: jekyll-theme-cayman
+url: "https://cayto-starfield.github.io"
+baseurl: "/Cyber-portfolio"
 # Google webmaster tools
 google_verify:
 
@@ -24,9 +25,6 @@ contact: static
 disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Footer settings
 footer:
