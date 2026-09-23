@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 8
-title: Incident Handlers Journal
+title: Navigation UI Test Cases
 img: handlersjournal.png
 alt: image-alt
 
