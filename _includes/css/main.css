@@ -3,7 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */body, header.masthead {
-  background-image: url('/Cyber-portfolio/pexels-krisof-1252869.jpg') !important;
+  background-image: url('/_includes/pexels-krisof-1252869.jpg') !important;
   background-color: #000000 !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
