@@ -54,7 +54,7 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: "_posts"
+      path: ""
       type: "posts"
     values:
       permalink: ""
