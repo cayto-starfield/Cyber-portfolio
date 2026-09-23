@@ -1,15 +1,13 @@
 ---
 layout: default
 modal-id: 9
-title: Cross Browser Defect Logging
+title: Defect Triaging And Compat. Audit
 img: handlersjournal.png
 alt: image-alt
 
-# Add the link to your journal below
 project-url: https://sites.google.com/view/caytonova/see-portfolio/xbrower-defect-triaging?authuser=0
 
-# Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+description: A comprehensive QA audit focused on identifying, triaging, and documenting cross-browser functional defects, UI regressions, and architectural JavaScript incompatibilities across legacy and modern web environments. This project involved deep-dive root cause analysis of console exceptions to guide developers in refactoring non-compliant code.
 ---
 
 <h3>1. Cross-Browser Functional Defects (Firefox)</h3>
