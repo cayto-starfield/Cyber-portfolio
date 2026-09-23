@@ -1,11 +1,10 @@
 # Site settings
-title: Cybersecurity Profeessional 
+title: Cayto Nova
 email: caytonova@gmail.com
 description: "Cyber Security & QA Professional Portfolio."
 keywords: "cybersecurity, cyber, testing, quality assurance, security, portfolio, tech"
 skills: "Cybersecurity - Quality Assurance - Analyst"
 meta_author: Cayto Nova
-theme: jekyll-theme-cayman
 url: "https://cayto-starfield.github.io"
 baseurl: "/Cyber-portfolio"
 # Google webmaster tools
