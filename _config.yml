@@ -1,9 +1,9 @@
 # Site settings
 title: Cayto Nova
 email: caytonova@gmail.com
-description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
-keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+description: "Cyber Security & QA Professional Portfolio."
+keywords: "cybersecurity, cyber, testing, quality assurance, security, portfolio, tech"
+skills: "Cybersecurity - Quality Assurance - Analyst"
 meta_author: Cayto Nova
 theme: jekyll-theme-cayman
 url: "https://cayto-starfield.github.io"
