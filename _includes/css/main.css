@@ -2,12 +2,13 @@
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-body, header.masthead {
-  background-image: url('/Cyber-portfolio/pexels-krisof-1252869.jpg') !important;
+ */body, header.masthead {
+  background-image: url('/Cyber-portfolio/YOUR-ACTUAL-IMAGE-FILENAME.jpg') !important;
   background-color: #000000 !important;
-  background-repeat: repeat !important;
-}
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-attachment: fixed !important;
 body {
     overflow-x: hidden;
 }
