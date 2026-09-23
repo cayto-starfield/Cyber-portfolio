@@ -24,7 +24,9 @@ contact: static
 disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
-theme: jekyll-theme-cayman
+emote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Footer settings
 footer:
@@ -47,10 +49,6 @@ email:
 # Postal address (add as many lines as necessary)
 location:
   - line: Chicagoland, Illinois
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
-Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
 
 # Build settings
 markdown: kramdown
