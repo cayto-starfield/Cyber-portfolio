@@ -9,7 +9,7 @@ alt: image-alt
 project-url: https://sites.google.com/view/caytonova/see-portfolio/ui-acessibility-test-cases-writing?authuser=0
 
 # Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: A structured manual test execution plan designed to validate complex frontend web components (such as dynamic data grids and overflow menus) and verify strict Section 508 accessibility compliance. This project ensured the application met federal standards for keyboard-only navigation and inclusive user experience design.
+description: A sample of my work. This was structured manual test execution plan designed to validate complex frontend web components (such as dynamic data grids and overflow menus) and verify strict Section 508 accessibility compliance. This project ensured the application met federal standards for keyboard-only navigation and inclusive user experience design.
 ---
 
 <h3>1. Tab Strip & Overflow Menu UI</h3>
