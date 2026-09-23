@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 title: Defect Triaging And Compat. Audit
-img: handlersjournal.png
+img: vulnerability.png
 alt: image-alt
 
 project-url: https://sites.google.com/view/caytonova/see-portfolio/xbrower-defect-triaging?authuser=0
