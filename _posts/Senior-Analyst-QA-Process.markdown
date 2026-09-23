@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-title: Incident Handlers Journal
+title: Senior Analyst QA ProceSs
 img: handlersjournal.png
 alt: image-alt
 
