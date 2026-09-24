@@ -5,7 +5,7 @@ title: Defect Triaging And Compat. Audit
 img: vulnerability.png
 alt: image-alt
 
-project-url: https://sites.google.com/view/caytonova/see-portfolio/xbrower-defect-triaging?authuser=0
+project-url: https://www.starfield.eco/qa-portfolio/xbrower-defect-triaging
 
 description: A sample of my work. This was a comprehensive QA audit focused on identifying, triaging, and documenting cross-browser functional defects, UI regressions, and architectural JavaScript incompatibilities across legacy and modern web environments. This project involved deep-dive root cause analysis of console exceptions to guide developers in refactoring non-compliant code.
 ---
