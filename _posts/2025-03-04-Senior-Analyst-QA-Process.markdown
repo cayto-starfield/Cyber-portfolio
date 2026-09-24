@@ -5,7 +5,7 @@ title: Agile QA Process & SOP Standardization
 img: handlersjournal.png
 alt: image-alt
 
-project-url: https://sites.google.com/view/caytonova/see-portfolio/senior-analyst-qa-sop?authuser=0
+project-url: https://www.starfield.eco/qa-portfolio/senior-analyst-qa-sop
 
 description: A sample of my work. This was a formal Standard Operating Procedure (SOP) establishing a collaborative integration testing framework between QA and Development teams. This project standardized the Agile testing lifecycle, streamlining sprint-level test planning, test data review, knowledge sharing, and the documentation of automated versus manual test coverage.
 ---
